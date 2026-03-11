@@ -1,0 +1,216 @@
+@font-face {
+    font-family: "Quiety";
+    src: url("https://gandmglobalsolution.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/fonts/Quiety.eot");
+    src: url("https://gandmglobalsolution.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/fonts/Quiety.eot?") format("embedded-opentype"), url("https://gandmglobalsolution.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/fonts/Quiety.woff2") format("woff2"), url("https://gandmglobalsolution.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/fonts/Quiety.woff") format("woff"), url("https://gandmglobalsolution.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/fonts/Quiety.ttf") format("truetype"), url("https://gandmglobalsolution.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/fonts/Quiety.svg") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "Quiety";
+        src: url("https://gandmglobalsolution.com/wp-content/plugins/quiety-core/assets/vendors/flaticon/css/Quiety.svg") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+    font-family: 'Quiety';
+    font-style: normal;
+}
+
+[class^="flaticon-"] {
+    font-weight: normal;
+}
+
+
+.flaticon-ruler:before {
+    content: "\f100";
+}
+
+.flaticon-globe:before {
+    content: "\f101";
+}
+
+.flaticon-web-programming:before {
+    content: "\f102";
+}
+
+.flaticon-analysis:before {
+    content: "\f103";
+}
+
+.flaticon-analytics:before {
+    content: "\f104";
+}
+
+.flaticon-web-design:before {
+    content: "\f105";
+}
+
+.flaticon-account:before {
+    content: "\f106";
+}
+
+.flaticon-megaphone:before {
+    content: "\f107";
+}
+
+.flaticon-web-development:before {
+    content: "\f108";
+}
+
+.flaticon-magnifying-glass:before {
+    content: "\f109";
+}
+
+.flaticon-edit:before {
+    content: "\f10a";
+}
+
+.flaticon-clock:before {
+    content: "\f10b";
+}
+
+.flaticon-search:before {
+    content: "\f10c";
+}
+
+.flaticon-pin:before {
+    content: "\f10d";
+}
+
+.flaticon-phone-call:before {
+    content: "\f10e";
+}
+
+.flaticon-left-quote:before {
+    content: "\f10f";
+}
+
+.flaticon-research:before {
+    content: "\f110";
+}
+
+.flaticon-settings:before {
+    content: "\f111";
+}
+
+.flaticon-customer-service:before {
+    content: "\f112";
+}
+
+.flaticon-travel-insurance:before {
+    content: "\f113";
+}
+
+.flaticon-keyword-research:before {
+    content: "\f114";
+}
+
+.flaticon-design:before {
+    content: "\f115";
+}
+
+.flaticon-strategies:before {
+    content: "\f116";
+}
+
+.flaticon-technical-support:before {
+    content: "\f117";
+}
+
+.flaticon-seo:before {
+    content: "\f118";
+}
+
+.flaticon-analysis-1:before {
+    content: "\f119";
+}
+
+.flaticon-email-marketing:before {
+    content: "\f11a";
+}
+
+.flaticon-optimization:before {
+    content: "\f11b";
+}
+
+.flaticon-social-media:before {
+    content: "\f11c";
+}
+
+.flaticon-strategy:before {
+    content: "\f11d";
+}
+
+.flaticon-graphic-design:before {
+    content: "\f11e";
+}
+
+.flaticon-development:before {
+    content: "\f11f";
+}
+
+.flaticon-shopping-bag:before {
+    content: "\f120";
+}
+
+.flaticon-search-1:before {
+    content: "\f121";
+}
+
+.flaticon-link:before {
+    content: "\f122";
+}
+
+.flaticon-www:before {
+    content: "\f123";
+}
+
+.flaticon-online-learning:before {
+    content: "\f124";
+}
+
+.flaticon-promotion:before {
+    content: "\f125";
+}
+
+.flaticon-playlist:before {
+    content: "\f126";
+}
+
+.flaticon-client:before {
+    content: "\f127";
+}
+
+.flaticon-support:before {
+    content: "\f128";
+}
+
+.flaticon-shopping-online:before {
+    content: "\f129";
+}
+
+.flaticon-global:before {
+    content: "\f12a";
+}
+
+.flaticon-computer:before {
+    content: "\f12b";
+}
+
+.flaticon-mechanism:before {
+    content: "\f12c";
+}
+
+.flaticon-recovery:before {
+    content: "\f12d";
+}
+
+.flaticon-trophy:before {
+    content: "\f12e";
+}
+
+.flaticon-archive:before {
+    content: "\f12f";
+}

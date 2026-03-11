@@ -1,0 +1,61 @@
+/*
+Theme Name: Quiety
+Theme URI: https://quiety-wp.themetags.com/
+Author: Themetags
+Author URI: https://themetags.com/
+Description: Quiety is a modern and clean WordPress theme suitable for any kind of Digital Agency, Digital Marketing and Seo Marketing.
+Version: 4.3.0
+Requires at least: 5.0
+Tested up to: 6.0
+Requires PHP: 7.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: quiety
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.server-list {
+    background-color: #1b1b1b;
+    position: relative;
+    padding: 19px 26px;
+    border-radius: 6px;
+    overflow: hidden;
+    margin-bottom: 16px;
+}
+.server-list:last-child{
+    margin-bottom: 0;
+}
+/* line 5065, src/assets/scss/custom/_style.scss */
+.server-list::before {
+    background: linear-gradient(95.45deg, #0082f8 0.64%, #1c40f2 98.23%);
+    -webkit-filter: blur(100px);
+    filter: blur(100px);
+    content: "";
+    height: 124px;
+    width: 124px;
+    border-radius: 50px;
+    position: absolute;
+    left: -127px;
+    bottom: -20px;
+}
+
+/* line 5076, src/assets/scss/custom/_style.scss */
+.server-list::after {
+    background: linear-gradient(95.45deg, #0082f8 0.64%, #1c40f2 98.23%);
+    content: "";
+    -webkit-filter: blur(100px);
+    filter: blur(100px);
+    height: 124px;
+    width: 124px;
+    border-radius: 50px;
+    position: absolute;
+    top: -127px;
+    right: -20px;
+}
+
+
+.slider {
+    padding: 230px 0;
+}
