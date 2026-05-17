@@ -59,3 +59,27 @@ Use it to make something cool, have fun, and share what you've learned with othe
 .slider {
     padding: 230px 0;
 }
+
+/* Keep submenu indicators visible on light headers/navigation. */
+.site-header:not(.mobile-header) .site-main-menu li.menu-item-has-children > a::after {
+    color: #000 !important;
+    border-top-color: #000 !important;
+    border-right-color: #000 !important;
+    opacity: 1 !important;
+}
+
+/* Nested submenu indicator (e.g., Services > Mortgage Services). */
+.site-header:not(.mobile-header) .site-main-menu li.menu-item-has-children .sub-menu li.menu-item-has-children > a {
+    padding-right: 34px !important;
+}
+
+.site-header:not(.mobile-header) .site-main-menu li.menu-item-has-children .sub-menu li.menu-item-has-children > a::after {
+    content: "\f054" !important;
+    font-family: "Font Awesome 5 Free" !important;
+    font-weight: 900 !important;
+    right: 12px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    color: #000 !important;
+    opacity: 1 !important;
+}
